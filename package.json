@@ -1,0 +1,25 @@
+{
+  "name": "github-contribution-graffiti",
+  "version": "1.0.0",
+  "description": "__杨超越杯编程大赛参赛作品__",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scaret/github-contribution-graffiti.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scaret/github-contribution-graffiti/issues"
+  },
+  "homepage": "https://github.com/scaret/github-contribution-graffiti#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
